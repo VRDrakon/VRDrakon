@@ -1,5 +1,7 @@
 <h1>About me</h1>
-![Isaac Clarke putting on a helmet](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k4anlzenl4d2dqY2FiY284cXdnYXF0dW9uM3dndDVxdjU0dTAyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tsBu4h4VjHSeci6w0l/giphy.gif)
+
+![Isaac clarke](https://github.com/user-attachments/assets/51d808f7-5d98-4eda-a44e-6bb56b9669cc)
+
 <p>My online alias is VRGuy. As the name suggests, my interest is in meddling with VR technologies.</p>
 <p>I'm planning to start uploading public repos in the future. I'm very passionate about learning and tend to jump around a lot.</p>
 
