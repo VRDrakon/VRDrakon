@@ -10,6 +10,8 @@
 <li>Learning C++ at college</li>
 </ul>
 <h3>My projest <i>'wishlist'</i>:</h3>
+<ul>
 <li>Make my own VR headset and write simple software for it.</li>
 <li>Learn Unity and unreal engine</li>
 <li>Upload a stocker managing application to the app store by the end of 2025</li>
+</ul>
