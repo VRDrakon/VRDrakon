@@ -9,7 +9,7 @@
 <ul>
 <li>Learning C++ at college</li>
 </ul>
-<h3>My projest <i>'wishlist'</i>:</h3>
+<h3>My project <i>'wishlist'</i>:</h3>
 <ul>
 <li>Make my own VR headset and write simple software for it.</li>
 <li>Learn Unity and unreal engine</li>
